@@ -1,0 +1,35 @@
+body {
+  margin: 0px;
+}
+
+.putFromSource {
+  font-family: "Lato", sans-serif;
+  padding-top: 10px;
+}
+/* final changes added to injection div */
+
+.card-title {
+  padding: 5px;
+}
+
+.card-subtitle {
+  font-family: "Lato", sans-serif;
+  padding: 5px;
+}
+
+ul.trainings li {
+  padding: 10px;
+}
+
+ul.skills li {
+  padding: 10px;
+}
+
+ul.hobbies li {
+  padding: 10px;
+}
+
+button.btn {
+  border-color: rgb(60, 96, 180);
+  border-width: 1px;
+}/*# sourceMappingURL=style.css.map */
