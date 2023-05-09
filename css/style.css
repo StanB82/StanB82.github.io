@@ -16,6 +16,10 @@ body {
   padding: 5px;
 }
 
+ul > li {
+  margin-top: 10px;
+}
+
 ul.trainings li {
   padding: 10px;
 }
