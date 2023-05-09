@@ -6,7 +6,6 @@ body {
   font-family: "Lato", sans-serif;
   padding-top: 10px;
 }
-/* final changes added to injection div */
 
 .card-title {
   padding: 5px;
@@ -29,7 +28,7 @@ ul.hobbies li {
   padding: 10px;
 }
 
-button.btn {
+.btn {
   border-color: rgb(60, 96, 180);
   border-width: 1px;
 }/*# sourceMappingURL=style.css.map */
